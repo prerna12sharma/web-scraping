@@ -1,0 +1,22 @@
+{
+    "Name": "Snow White and the Seven Dwarfs",
+    "Rating": "G",
+    "Genre": [
+        "Kids",
+        "&",
+        "family,",
+        "Fantasy,",
+        "Animation"
+    ],
+    "Language": "English",
+    "Director": [
+        [
+            "DavidHand"
+        ]
+    ],
+    "Producer": [
+        "Walt",
+        "Disney"
+    ],
+    "Runtime": 80
+}

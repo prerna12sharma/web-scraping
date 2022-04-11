@@ -1,0 +1,39 @@
+[
+   {
+      "Name": "I Lost My Body",
+      "Genre": [
+         "Drama,",
+         "Animation,",
+         "Fantasy"
+      ],
+      "Language": "French",
+      "Director": [
+         [
+            "J\u00e9r\u00e9myClapin"
+         ]
+      ],
+      "Producer": [
+         "Marc",
+         "du",
+         "Pontavice,",
+         "Camille",
+         "Wiplier,",
+         "Lucie",
+         "Bolze"
+      ],
+      "Runtime": 81
+   },
+   {
+      "Cast_Name": [
+         "Hakim Faris",
+         "Victoire Du",
+         "Patrick d'Assum\u00e7ao",
+         "J\u00e9r\u00e9my Clapin",
+         "J\u00e9r\u00e9my Clapin",
+         "Guillaume Laurant",
+         "Marc du",
+         "Camille Wiplier",
+         "Lucie Bolze"
+      ]
+   }
+]
